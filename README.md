@@ -31,4 +31,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkonov2&" alt="vkonov2" /></p> -->
 
-<img src="https://github.com/vkonov2/vkonov2/blob/eeee581387a8769be775fb909831eff60b308a87/pics/code.gif" alt="c" width="300" height="150"/>
+<img src="https://github.com/vkonov2/vkonov2/blob/eeee581387a8769be775fb909831eff60b308a87/pics/code.gif" alt="c" width="300" height="180"/>
