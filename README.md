@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [*resume link*](https://disk.yandex.ru/i/lufCwPLw_P2xGA)
 
-<img src="https://img.shields.io/badge/-C-blue" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-C++-red" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-C-9cf" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-C++-red" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-Python-blue" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-Bash-lightgrey" style="max-width: 100%;">
 
 <h3 align="left">Languages and Tools:</h3>
 
