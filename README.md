@@ -29,6 +29,6 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkonov2&show_icons=true&locale=en" alt="vkonov2" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkonov2&" alt="vkonov2" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkonov2&" alt="vkonov2" /></p> -->
 
 <img src="https://github.com/vkonov2/vkonov2/blob/eeee581387a8769be775fb909831eff60b308a87/pics/code.gif" alt="c" width="500" height="300"/>
