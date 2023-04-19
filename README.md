@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vkonov2](https://github.com/vkonov2)
 
-- 📫 How to reach me **vkonov2@yandex.ru**
+- 📫 How to reach me: **vkonov2@yandex.ru**
 
-- 📄 Know about my experiences [resume link](https://disk.yandex.ru/i/lufCwPLw_P2xGA)
+- 📄 Know about my experiences: [*resume link*](https://disk.yandex.ru/i/lufCwPLw_P2xGA)
 
 <h3 align="left">Languages and Tools:</h3>
 
