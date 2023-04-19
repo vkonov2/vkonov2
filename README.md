@@ -11,11 +11,7 @@
 
 - 📄 Know about my experiences: [*resume link*](https://disk.yandex.ru/i/lufCwPLw_P2xGA)
 
-<img src="https://img.shields.io/badge/-C-9cf" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-C++-red" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-Python-blue" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-Bash-lightgrey" style="max-width: 100%;">
-
 <h3 align="left">Languages and Tools:</h3>
-
-
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -34,3 +30,5 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkonov2&show_icons=true&locale=en" alt="vkonov2" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkonov2&" alt="vkonov2" /></p>
+
+<img src="https://github.com/vkonov2/vkonov2/blob/eeee581387a8769be775fb909831eff60b308a87/pics/code.gif" alt="c" width="500" height="300"/>
