@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [*resume link*](https://disk.yandex.ru/i/lufCwPLw_P2xGA)
 
-<img alt="C" src="https://img.shields.io/badge/c-C-blue" style="max-width: 100%;">
+<img href="https://www.cprogramming.com/" alt="c" src="https://img.shields.io/badge/c-C-blue" style="max-width: 100%;">
 
 <h3 align="left">Languages and Tools:</h3>
 
