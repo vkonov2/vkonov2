@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bruter Simulation](https://github.com/vkonov2/Geometry-Projects/tree/main/Bruter-Simulation)
 
-- 🌱 I’m currently learning **at the Faculty of Mechanics and Mathematics of Moscow State University**
+- 🌱 I’m currently learning [**at the Faculty of Mechanics and Mathematics of Moscow State University**](https://www.msu.ru/en/info/struct/depts/mechmath.html)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vkonov2](https://github.com/vkonov2)
 
