@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **vkonov2@yandex.ru**
 
-- 📄 Know about my experiences: [*resume link*](https://disk.yandex.ru/i/lufCwPLw_P2xGA)
+- 📄 Know about my experiences: [*resume*](https://disk.yandex.ru/i/lufCwPLw_P2xGA)
 
 <h3 align="left">Languages and Tools:</h3>
 
