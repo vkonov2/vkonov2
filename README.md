@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mark Konov</h1>
-<h3 align="center">A junior developer from Russia</h3>
+<h3 align="center">A middle developer from Russia</h3>
 
 - 🔭 I’m currently working on [Bruter Simulation](https://github.com/vkonov2/Geometry-Projects/tree/main/Bruter-Simulation)
 
