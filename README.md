@@ -1,15 +1,13 @@
 <h1 align="center">Hello 👋, I'm Mark Konov</h1>
 <h3 align="center">A middle developer from Russia</h3>
 
-- 🔭 I’m currently working on [Bruter Simulation](https://github.com/vkonov2/Geometry-Projects/tree/main/Bruter-Simulation)
+- 🌱 I’m currently learning at the postgraduate level [**at the Faculty of Mechanics and Mathematics of Moscow State University**](https://www.msu.ru/en/info/struct/depts/mechmath.html)
 
-- 🌱 I’m currently learning [**at the Faculty of Mechanics and Mathematics of Moscow State University**](https://www.msu.ru/en/info/struct/depts/mechmath.html)
-
-- 👨‍💻 All of my projects are available at [https://github.com/vkonov2](https://github.com/vkonov2)
+- 👨‍💻 Some of my projects are available at [https://github.com/vkonov2](https://github.com/vkonov2)
 
 - 📫 How to reach me: **vkonov2@yandex.ru**
 
-- 📄 Know about my experiences: [*resume*](https://disk.yandex.ru/i/Fb4XThngBUnzKA)
+- 📄 Know about my experiences: [*resume*](https://disk.yandex.ru/i/xcu6bNsuNtowWg)
 
 <h3 align="left">Languages and Tools:</h3>
 
